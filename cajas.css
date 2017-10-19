@@ -1,0 +1,52 @@
+.caja_1{
+width: 250px; 
+height: 250px; 
+background:red;
+position:relative;
+bottom:5px;
+}
+
+.cuadrado_1{
+width: 135px; 
+height: 135px; 
+background:purple;
+position:absolute;
+bottom:535px;
+left:63px;
+}
+
+.cuadradito_1{
+width:65px;
+height:65px;
+background: yellow;
+position:absolute;
+bottom:605px;
+left:63px;
+}
+
+.caja_2{
+ width:250px;
+ height:250px;
+ background:blue;
+ position:relative;
+ top:10px;
+}
+
+.cuadrado_2{
+width:125px;
+height:125px;
+background:green;
+position:absolute;
+bottom:277px;
+left:70px;
+}
+
+.cuadradito_2{
+width:61px;
+height:59px;
+background: black;
+position:absolute;
+bottom:402px;
+left:9px;
+
+}
